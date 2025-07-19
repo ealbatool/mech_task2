@@ -28,7 +28,7 @@
   - AMR navigation paths
   - Conveyor system routes
 
-## Human-Machine Interface
+### Human-Machine Interface
 - Dashboard showing:
   - Real-time system status
   - Exception alerts
